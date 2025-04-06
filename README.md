@@ -4,7 +4,7 @@
 
 # 重要说明！！！
 
-请勿直接修改 .env，然后提交到 github，源码仓库是公开的，别人可以直接看到你的账号密码。因为错误使用本仓库导致账号密码泄漏，本人概不负责！！！
+请勿直接修改 .env，然后提交到 github，源码仓库是公开的，别人可以直接看到你的账号密码。因为错误使用本仓库导致账号密码泄漏，本人概不负责！！
 
 ## **目录**
 
@@ -101,7 +101,7 @@ npm install
 
 ### 运行
 
-​ 修改源码中.env 中 userName 和 password 为你的天翼账号和密码,可以添加多个账号如[{"userName":"账号 1","password":"账号 1 的密码"},{"userName":"账号 2","password":"账号 2 的密码"}]
+ 修改源码中.env 中 userName 和 password 为你的天翼账号和密码,可以添加多个账号如[{"userName":"账号 1","password":"账号 1 的密码"},{"userName":"账号 2","password":"账号 2 的密码"}]
 
 ```bash
 TY_ACCOUNTS=[{"userName":"userName","password":"password"}]
